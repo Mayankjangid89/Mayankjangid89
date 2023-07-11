@@ -2,7 +2,7 @@
 - 👀 I’m interested in open source contributuion
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on github
-- 📫 How to reach me jangirmayank@gmail.com
+- 📫 How to reach me jangirmayank891@gmail.com
   
 
 <!---
